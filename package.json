@@ -1,0 +1,23 @@
+{
+  "name": "utils",
+  "version": "1.0.0",
+  "description": "All often used function/implementation for nodejs scripts",
+  "main": "index.mjs",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/florianpasteur/node-utils.git"
+  },
+  "keywords": [
+    "utils"
+  ],
+  "author": "Florian Pasteur",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/florianpasteur/node-utils/issues"
+  },
+  "homepage": "https://github.com/florianpasteur/node-utils#readme"
+}
