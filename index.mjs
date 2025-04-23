@@ -1,5 +1,4 @@
-const fs = require('fs/promises');
-const path = require('path');
+import fs from 'fs/promises';
 
 export async function readJson(path) {
     return JSON.parse(await fs.readFile(path, 'utf8'));
