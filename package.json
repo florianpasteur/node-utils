@@ -1,6 +1,6 @@
 {
   "name": "@flow-js/utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "All often used function/implementation for nodejs scripts",
   "main": "index.mjs",
   "type": "module",
