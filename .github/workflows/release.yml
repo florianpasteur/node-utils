@@ -43,7 +43,7 @@ jobs:
 
             - name: Push changes and tags
               run: |
-                  git push origin florian
+                  git push origin main
                   git push origin --tags
 
             - name: Publish to npm
